@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <main className="container mx-auto">
+
+      </main>
     </div>
   );
 }
